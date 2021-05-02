@@ -1,0 +1,27 @@
+.header{
+    /* background-image: url('../../Images/bearone-bu1V8O6_TKY-unsplash.jpg');
+    width: 100%;
+    background-size: cover; */
+    background-color: #181818;
+    padding: 10px;
+}
+.img{
+    height: 400px;
+    border: 6px solid #dff1c6;
+    border-radius: 260px;
+    margin-left: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+@media only screen and (max-width: 600px) {
+    .img {
+      height: 300px;
+      margin-left: 0px;
+    }
+  }
+.left-colum{
+    margin-top: 200px;
+}
+.row{
+    padding: 70px 10px 70px 20px;
+}

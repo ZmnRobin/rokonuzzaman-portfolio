@@ -1,0 +1,14 @@
+.dev-icon{
+    height: 400px;
+    width: 500px;
+}
+@media only screen and (max-width: 600px) {
+    .dev-icon {
+      height: 300px;
+      width: 300px;
+    }
+  }
+.info{
+    background-color:#F9FAFD ;
+    margin-top: -10px;
+}

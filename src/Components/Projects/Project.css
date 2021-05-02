@@ -1,0 +1,22 @@
+.project-card{
+    margin: 10px;
+    width: 350px;
+    padding: 15px;
+    background-color: #F9FAFD;
+     border-radius: 5px;
+     height: 555px;
+}
+
+.project-img{
+    width: 320px;
+    height: 220px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+    .project-card {
+      margin-left: -20px;
+    }
+  }
